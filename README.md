@@ -1,2 +1,2 @@
 # virtual-criket
-cricket match virtually of 6 ball using object oriented language
+virtual cricket match of 6 ball using object oriented language
